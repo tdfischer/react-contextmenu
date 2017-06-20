@@ -1,7 +1,6 @@
 node_modules/
 public/
 dist/
-modules/
 coverage/
 .vscode
 bundle.js
